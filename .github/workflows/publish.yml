@@ -12,6 +12,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Make Build Directory
+        run: mkdir build
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4
         with:
