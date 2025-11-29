@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template/bars/post",
+	"textures": {
+		"bars": "minecraft:block/copper_bars"
+	}
+}

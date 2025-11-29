@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/template/bars/post",
+	"textures": {
+		"bars": "quark:block/gold_bars",
+		"edge": "quark:block/gold_bars_but_its_actually_just_one"
+	}
+}

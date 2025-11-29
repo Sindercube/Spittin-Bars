@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template/bars/cap",
+	"textures": {
+		"bars": "minecraft:block/copper_bars"
+	}
+}

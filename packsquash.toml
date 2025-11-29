@@ -1,0 +1,3 @@
+pack_directory = "pack"
+output_file_path = "build/Spittin' Bars.zip"
+recompress_compressed_files = true

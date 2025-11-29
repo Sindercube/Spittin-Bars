@@ -1,0 +1,8 @@
+{
+	"render_type": "cutout",
+	"ambientocclusion": false,
+	"parent": "minecraft:block/template/bars/side_alt",
+	"textures": {
+		"bars": "etcetera:block/bismuth_bars"
+	}
+}

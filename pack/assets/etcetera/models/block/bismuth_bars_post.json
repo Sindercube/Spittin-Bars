@@ -1,0 +1,8 @@
+{
+	"render_type": "cutout",
+	"ambientocclusion": false,
+	"parent": "minecraft:block/template/bars/post",
+	"textures": {
+		"bars": "etcetera:block/bismuth_bars"
+	}
+}

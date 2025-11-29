@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/template/bars/side_alt",
+	"textures": {
+		"bars": "architects_palette:block/sunmetal_bars",
+		"edge": "architects_palette:block/sunmetal_bars_top"
+	}
+}

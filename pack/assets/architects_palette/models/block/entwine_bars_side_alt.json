@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template/bars/side_alt",
+	"textures": {
+		"bars": "architects_palette:block/entwine_bars"
+	}
+}
