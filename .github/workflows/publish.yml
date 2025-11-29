@@ -33,6 +33,8 @@ jobs:
 
           game-versions: |
             >=1.13
+          loaders: |
+            minecraft
 
           github-tag: "${{ github.event.release.tag_name }}"
           github-token: "${{ secrets.GITHUB_TOKEN }}"
