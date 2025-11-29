@@ -20,7 +20,7 @@ jobs:
           packsquash_version: latest
           options: ./packsquash.toml
       - name: Rename Pack
-        run: "mv build/pack.zip \"Spittin' Bars v${{ github.event.release.tag_name }}.zip\""
+        run: "mv build/pack.zip \"build/Spittin' Bars v${{ github.event.release.tag_name }}.zip\""
       - name: Publish Pack
         uses: Kir-Antipov/mc-publish@v3.3
         with:
