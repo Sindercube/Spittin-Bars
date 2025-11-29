@@ -1,6 +1,6 @@
 {
 	"render_type": "cutout",
-    "ambientocclusion": false,
+	"ambientocclusion": false,
 	"parent": "minecraft:block/template/bars/cap_alt",
 	"textures": {
 		"bars": "etcetera:block/bismuth_bars"
